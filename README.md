@@ -1,6 +1,6 @@
 # Get Started 
 
-First you need to install the necessary library by
+First you need to install the necessary libraries by
 ### `npm install`
 
 ## How to run the program

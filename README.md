@@ -17,5 +17,6 @@ open 4 diiferent terminals, and do the following for each one :<br>
 Here is a video demonstrating the full features of the website:
 
 ![202403200954 (1)](https://github.com/Seeker38/final_project_zoo/assets/122107782/8c2884ec-e6f8-4283-94e0-1bd1b81a138d)
-
+<br>
+[Cick here if you can not see on github](https://github.com/Seeker38/final_project_zoo/assets/122107782/8c2884ec-e6f8-4283-94e0-1bd1b81a138d)
 
